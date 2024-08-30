@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Tohar
-- 🌱 I’m currently learning Python , CyberSecurity...
+- 👋 Hi, I’m @$$$
+- 🌱 I’m currently learning C#, CyberSecurity...
 - 📫 You Can Reach Me In Discord , shifuvfx
 
 <!---
