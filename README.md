@@ -1,5 +1,5 @@
 ## About Me
-Hi! I'm $HIFU ($$$)
+Hi! I'm SHIFU ($$$)
 
 I'm a passionate **self-taught programmer** who started learning programming in 10th grade. Currently, I'm diving deep into Python and C#, building fun projects that challenge me to think creatively and solve problems in innovative ways.
 
